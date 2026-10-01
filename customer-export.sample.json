@@ -1,0 +1,10 @@
+{
+  "export_generated_at": "2026-09-01T00:00:00Z",
+  "customers": [
+    {"customer_id": "CUST-1001", "name": "Ava Thompson", "email": "ava.thompson@example.com", "plan": "Enterprise", "lifetime_value": 48200.00},
+    {"customer_id": "CUST-1002", "name": "Marcus Lee", "email": "marcus.lee@example.com", "plan": "Pro", "lifetime_value": 9120.50},
+    {"customer_id": "CUST-1003", "name": "Priya Natarajan", "email": "priya.n@example.com", "plan": "Pro", "lifetime_value": 7430.75},
+    {"customer_id": "CUST-1004", "name": "Jonah Fischer", "email": "jonah.fischer@example.com", "plan": "Starter", "lifetime_value": 640.00},
+    {"customer_id": "CUST-1005", "name": "Elena Castillo", "email": "elena.castillo@example.com", "plan": "Enterprise", "lifetime_value": 61890.25}
+  ]
+}
